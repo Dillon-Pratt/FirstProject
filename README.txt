@@ -1,0 +1,1 @@
+Edit the string on line 8 to set you're own master password. The script autodetects if "encryptedinfo.txt.aes" already exists, and if not, creates an "info.txt" file in the directory for encryption purposes.  
